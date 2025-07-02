@@ -114,7 +114,7 @@ Although the MLP model showed the highest accuracy on the test split, it had **p
 
 ## 🧠 Author
 
-**[Your Name]**  
+**[Ali Sarafraz]**  
 Machine Learning Student | Data Science Enthusiast  
 Email: ali.sarafraz530@gmail.com  
 GitHub: [Ali-sarafraz](https://github.com/Ali-sarafraz)
